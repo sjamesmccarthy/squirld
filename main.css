@@ -1,0 +1,346 @@
+/**
+ * @Author: James McCarthy <sjamesmccarthy>
+ * @Date:   05-02-2017 12:11:58
+ * @Email:  james@jmccarthy.xyz
+ * @Filename: main.css
+ * @Last modified by:   sjamesmccarthy
+ * @Last modified time: 05-17-2017 7:01:53
+ * @Copyright: 2017
+ */
+
+html {
+     overflow: -moz-scrollbars-vertical;
+     overflow: scroll;
+}
+
+body
+{
+	font-family: 'Dosis', sans-serif;
+	margin: 0;
+}
+
+/*a {
+	color: #000;
+}
+
+a:visited {
+
+	color: #AAA;
+}
+
+a:hover {
+	color: #000;
+}*/
+
+#wrapper {
+	max-width: 640px;
+	margin: auto;
+}
+
+.fa
+{
+	padding: 5px;
+	/* color: rgba(51, 153, 255, 1); */
+}
+
+.fa:hover
+{
+	color: #000;
+}
+
+.header
+{
+	position: relative;
+	width: 100%;
+	padding: 20px;
+	background-color: #0099cc;
+	color: FFF;
+	box-sizing: border-box;
+	text-transform: uppercase;
+	margin: 0;
+	min-height: 88px;
+}
+
+.header a, #back-button a:visited
+{
+	color: #FFF;
+}
+
+.header p
+{
+
+	padding: 0;
+	margin: 0;
+	text-align: center;
+
+}
+
+.header h2
+{
+	padding: 10px 0;
+	margin: 0;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+#back-button-current
+{
+	position: absolute;
+	color: #FFF;
+	top: 75px;
+	right: 15px;
+}
+
+
+#back-button-arrows, #back-button
+{
+	position: absolute;
+	color: #FFF;
+	top: 35px;
+	left: 20px;
+	display: none;
+}
+
+.listings
+{
+
+	list-style-type: none;
+	padding: 0;
+	font-size: 1.2em;
+	margin: 0;
+	min-height: 40%;
+    box-sizing: border-box;
+    display: block;
+}
+
+.listings-hr
+{
+	border-bottom: 1px solid #CCC;
+	padding-left: 10px;
+}
+
+#reportCrowd:hover
+{
+	cursor: pointer;
+}
+
+.button
+{
+	/*display: inline-block;*/
+	padding: 10px;
+	background-color: #CCC;
+	/*border-radius: 10px;*/
+	text-transform: uppercase;
+	color: purple;
+}
+
+.button:hover
+{
+	background-color: #AAA;
+	cursor: pointer;
+	color: #FFF;
+}
+
+.button a {
+	text-decoration: none;
+}
+
+.details-icons
+{
+	padding: 20px 0 20px 0;
+}
+
+.details-icons > i {
+	font-size: 2.0em;
+	padding: 0px 30px 0px 0px;
+}
+
+.details-hours
+{
+	/* position: absolute;
+	right: 0;
+	top: 85px; */
+	color: #FFF;
+	background-color: #0099cc;
+	display: inline-block;
+	line-height: 1.1em;
+	padding: 10px 15px 10px 15px;
+	font-size: 1.2em;
+	text-align: left;
+	margin-top: -2px;
+	z-index: 1000;
+	/*letter-spacing: .1em;*/
+}
+
+.details-hours >p
+{
+	margin: 0; padding: 0;
+}
+
+.details-hours > i
+{
+	margin-right: 10px;
+}
+
+.details
+{
+	line-height: 1.1em;
+	padding: 0 20px 0 20px;
+	font-size: 1.2em;
+}
+
+.details-list
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 20px 0 20px 0;
+}
+
+.details-list > li
+{
+	margin: 10px;
+}
+
+.details-list >li a
+{
+	color: #000;
+	text-decoration: none;
+}
+
+.details-list >li i
+{
+	margin-right: 12px;
+}
+
+.details-list-ratings
+{
+list-style-type: none; margin-left: 10px; margin-top: 10px; font-size: .8em;
+}
+
+.details-list-ratings > li i
+{
+	/*color: #AAA;*/
+}
+
+.details-list-crowd
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.edit {
+padding: 0; margin: 0 0 0 0;
+}
+
+.edit:hover {
+	cursor: pointer;
+}
+
+.footer-copy {
+	border-top: 1px solid #CCC;
+}
+
+/* FORM */
+#location-form
+{
+	padding: 0 20px;
+	border-color: #000;
+}
+
+#reportForm
+{
+	display: none;
+}
+
+#reportImage
+{
+	display: none;
+}
+
+#currentLocationImage
+{
+	/*display: block;*/
+}
+
+#location-form input[type=text], select, textarea
+{
+
+	padding: 10px;
+	width: 100%;
+	color: #669900;
+	font-size: 1.2em;
+	border: 1px solid #CCC;
+}
+
+#location-form select
+{
+
+-height: 38px;
+-webkit-appearance: none;
+-moz-appearance: none;
+-ms-appearance: none;
+appearance: none;
+border-radius: 2px;
+display: block;
+width: 100%;
+border: 1px solid #c8c8c8;
+background: transparent url(images/down_arrow_2.png) no-repeat right;
+color: #9f9f9f;
+/* padding: 8px 20px 7px 10px; */
+margin: 0;
+line-height: normal;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+background-position-x: 98%;
+
+}
+
+input[type=submit]
+{
+	border-style: none;
+	width: 100%;
+	background-color: #CCC
+	color: #000
+}
+
+.AM
+{
+	color: #CCC;
+}
+
+option
+{
+	color: #000;
+}
+
+#secondhappyhour, #happyhourweekend_area, #happyhour_hours {
+	display: none;
+	margin-bottom: 20px;
+}
+
+#happyhour2, #happyhour2_close, #happyhourweekend_label, #happyhourweekend_close, #happyhour_label, #happyhour_close
+{
+	color: purple;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.footer
+{
+	/*width: 100%;*/
+	padding: 20px;
+	margin-top: 20px;
+	border-top: 1px solid #CCC;
+}
+
+.black
+{
+	color: #000;
+}
+
+.gray
+{
+	color: #AAA;
+}

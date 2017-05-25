@@ -1,0 +1,31 @@
+{
+	"site":
+	{
+		"app_name": "Happy Hour",
+		"app_path": "/happyhour/",
+		"app_version" : "1.0.1 BETA",
+		"app_lang" : "en",
+		"app_state" : "public",
+		"app_created" : "11-18-2016",
+		"app_serial" : "0ae5be57a0733f936546e058263e9566",
+		"app_owner_name" : "James McCarthy",
+		"app_owner_email" : "james@jmccarthy@xyz"
+	},
+
+	"database": {
+		"dev": {
+			"host" : "local",
+			"port" : "3306",
+			"username": "root",
+			"password" : "jewel4me",
+			"dbname" : "pfu_happyhour"
+		},
+		"prod": {
+			"host" : "local",
+			"port" : "3306",
+			"username": "studio610",
+			"password" : "youar3MY0ne!",
+			"dbname" : "pfu_happyhour"
+		}
+	}
+}

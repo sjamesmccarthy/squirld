@@ -1,0 +1,786 @@
+[04-Nov-2016 20:29:27 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/listings.php on line 5
+[04-Nov-2016 20:35:43 UTC] PHP Fatal error:  Class 'LocationForm' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 7
+[04-Nov-2016 20:42:51 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 12
+[04-Nov-2016 20:45:58 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 12
+[04-Nov-2016 20:46:21 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 12
+[04-Nov-2016 20:47:01 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 12
+[04-Nov-2016 20:47:03 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 12
+[04-Nov-2016 20:47:03 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 12
+[04-Nov-2016 20:48:22 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 15
+[04-Nov-2016 20:48:52 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 15
+[04-Nov-2016 20:48:55 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 15
+[04-Nov-2016 20:48:55 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 15
+[04-Nov-2016 20:48:57 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 15
+[04-Nov-2016 20:48:57 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 15
+[04-Nov-2016 20:49:17 UTC] PHP Fatal error:  Call to undefined method LocationForm::showForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 14
+[04-Nov-2016 20:53:39 UTC] PHP Fatal error:  Class 'C' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 9
+[04-Nov-2016 20:53:40 UTC] PHP Fatal error:  Class 'C' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 9
+[04-Nov-2016 20:54:05 UTC] PHP Fatal error:  Class 'C' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 9
+[04-Nov-2016 20:54:06 UTC] PHP Fatal error:  Class 'C' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 9
+[04-Nov-2016 20:54:06 UTC] PHP Fatal error:  Class 'C' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 9
+[04-Nov-2016 20:54:07 UTC] PHP Fatal error:  Class 'C' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 9
+[04-Nov-2016 21:01:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:02:19 UTC] PHP Notice:  Use of undefined constant LocationForm - assumed 'LocationForm' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 18
+[04-Nov-2016 21:02:19 UTC] PHP Fatal error:  Call to a member function showMainForm() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:02:44 UTC] PHP Fatal error:  Call to undefined method LocationForm::showMainForm() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:15 UTC] PHP Notice:  Undefined variable: location_form in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:15 UTC] PHP Fatal error:  Call to a member function showMainForm() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:39 UTC] PHP Notice:  Undefined variable: location_form in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:39 UTC] PHP Fatal error:  Call to a member function showForm() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:41 UTC] PHP Notice:  Undefined variable: location_form in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:41 UTC] PHP Fatal error:  Call to a member function showForm() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:47 UTC] PHP Notice:  Undefined variable: location_form in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:03:47 UTC] PHP Fatal error:  Call to a member function showForm() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 19
+[04-Nov-2016 21:04:03 UTC] PHP Warning:  include(/views/view_location_form.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:04:03 UTC] PHP Warning:  include(): Failed opening '/views/view_location_form.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:04:04 UTC] PHP Warning:  include(/views/view_location_form.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:04:04 UTC] PHP Warning:  include(): Failed opening '/views/view_location_form.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:04:29 UTC] PHP Warning:  include(/home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/views/view_location_form.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:04:29 UTC] PHP Warning:  include(): Failed opening '/home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/views/view_location_form.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/location_form.php on line 14
+[04-Nov-2016 21:51:58 UTC] PHP Warning:  include(controllers/Core.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 6
+[04-Nov-2016 21:51:58 UTC] PHP Warning:  include(controllers/Core.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 6
+[04-Nov-2016 21:51:58 UTC] PHP Warning:  include(): Failed opening 'controllers/Core.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 6
+[04-Nov-2016 21:51:58 UTC] PHP Fatal error:  Class 'Core' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 13
+[04-Nov-2016 23:33:43 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 9
+[04-Nov-2016 23:33:44 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 9
+[04-Nov-2016 23:36:56 UTC] PHP Fatal error:  Undefined class constant '__construct' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 9
+[04-Nov-2016 23:36:59 UTC] PHP Fatal error:  Undefined class constant '__construct' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 9
+[04-Nov-2016 23:43:30 UTC] PHP Fatal error:  Undefined class constant 'config' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 9
+[04-Nov-2016 23:43:41 UTC] PHP Fatal error:  Access to undeclared static property: Core::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 9
+[04-Nov-2016 23:58:06 UTC] PHP Fatal error:  Call to undefined method LocationForm::config() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 24
+[15-Nov-2016 17:24:37 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 37
+[15-Nov-2016 17:24:37 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[15-Nov-2016 17:25:32 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[15-Nov-2016 17:27:27 UTC] PHP Strict Standards:  Accessing static property LocationForm::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:27:27 UTC] PHP Notice:  Undefined property: LocationForm::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:27:38 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[15-Nov-2016 17:27:38 UTC] PHP Strict Standards:  Accessing static property LocationForm::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:27:38 UTC] PHP Notice:  Undefined property: LocationForm::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:28:23 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[15-Nov-2016 17:28:23 UTC] PHP Strict Standards:  Accessing static property LocationForm::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:28:23 UTC] PHP Notice:  Undefined property: LocationForm::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:28:52 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[15-Nov-2016 17:28:52 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[15-Nov-2016 17:28:52 UTC] PHP Strict Standards:  Accessing static property LocationForm::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:28:52 UTC] PHP Notice:  Undefined property: LocationForm::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:30:52 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[15-Nov-2016 17:30:52 UTC] PHP Strict Standards:  Accessing static property LocationForm::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:30:52 UTC] PHP Notice:  Undefined property: LocationForm::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 40
+[15-Nov-2016 17:32:06 UTC] PHP Strict Standards:  Accessing static property Core::$config as non static in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[15-Nov-2016 17:35:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 18
+[18-Nov-2016 23:55:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610a'@'localhost' (using password: YES) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 42
+[19-Nov-2016 00:17:16 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:17:16 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:17:16 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:17:16 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:17:16 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 42
+[19-Nov-2016 00:17:17 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:17:17 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:17:17 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:17:17 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:17:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 42
+[19-Nov-2016 00:17:41 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:17:41 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:17:41 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 40
+[19-Nov-2016 00:17:41 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 40
+[19-Nov-2016 00:17:41 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 43
+[19-Nov-2016 00:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:18:13 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 42
+[19-Nov-2016 00:19:24 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:19:24 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:19:24 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:22:43 UTC] PHP Fatal error:  Access to undeclared static property: Core::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 38
+[19-Nov-2016 00:24:06 UTC] PHP Notice:  Array to string conversion in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 36
+[19-Nov-2016 00:25:09 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 37
+[19-Nov-2016 00:25:09 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 37
+[19-Nov-2016 00:25:09 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 37
+[19-Nov-2016 00:26:07 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[19-Nov-2016 00:34:14 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 59
+[19-Nov-2016 00:37:41 UTC] PHP Notice:  Undefined variable: connection in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 51
+[19-Nov-2016 00:37:41 UTC] PHP Warning:  get_resource_type() expects parameter 1 to be resource, null given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 51
+[19-Nov-2016 00:37:53 UTC] PHP Warning:  get_resource_type() expects parameter 1 to be resource, object given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 51
+[19-Nov-2016 00:38:47 UTC] PHP Warning:  get_resource_type() expects parameter 1 to be resource, object given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 51
+[19-Nov-2016 00:38:49 UTC] PHP Warning:  get_resource_type() expects parameter 1 to be resource, object given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 51
+[19-Nov-2016 00:38:49 UTC] PHP Warning:  get_resource_type() expects parameter 1 to be resource, object given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 51
+[19-Nov-2016 00:41:26 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 61
+[19-Nov-2016 00:41:26 UTC] PHP Warning:  Core::startDB(): Couldn't fetch mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 64
+[19-Nov-2016 00:42:06 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:42:06 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:42:07 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:42:07 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:42:45 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:42:45 UTC] PHP Fatal error:  Cannot access empty property in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:27 UTC] PHP Fatal error:  Cannot access empty property in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:28 UTC] PHP Fatal error:  Cannot access empty property in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:29 UTC] PHP Fatal error:  Cannot access empty property in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:43:29 UTC] PHP Fatal error:  Cannot access empty property in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 62
+[19-Nov-2016 00:45:38 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 64
+[19-Nov-2016 00:45:38 UTC] PHP Warning:  Core::closeDB(): Couldn't fetch mysqli in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 67
+[21-Nov-2016 18:43:22 UTC] PHP Notice:  Undefined property: LocationForm::$showForm in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 18:44:01 UTC] PHP Notice:  Undefined property: LocationForm::$showForm in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 18:44:59 UTC] PHP Notice:  Undefined property: LocationForm::$showForm in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 18:45:01 UTC] PHP Notice:  Undefined property: LocationForm::$showForm in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 21:32:55 UTC] PHP Notice:  Undefined variable: REQUEST in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 21:52:51 UTC] PHP Fatal error:  Call to undefined method LocationForm::save() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 27
+[21-Nov-2016 21:53:25 UTC] PHP Notice:  Undefined variable: location_form in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 13
+[21-Nov-2016 22:12:52 UTC] PHP Fatal error:  Class 'LocationForm' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 4
+[21-Nov-2016 22:13:06 UTC] PHP Fatal error:  Class 'Core' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 5
+[21-Nov-2016 22:17:36 UTC] PHP Fatal error:  include(): Cannot redeclare class locationformmodel in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 12
+[21-Nov-2016 22:20:30 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 27
+[21-Nov-2016 22:20:46 UTC] PHP Fatal error:  Call to undefined method LocationForm::save() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 27
+[21-Nov-2016 22:21:22 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 27
+[21-Nov-2016 22:23:21 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/LocationForm.php on line 27
+[21-Nov-2016 22:25:03 UTC] PHP Fatal error:  Class 'LocationForm' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/LocationFormModel.php on line 5
+[21-Nov-2016 22:45:22 UTC] PHP Notice:  Undefined variable: conn in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/LocationFormModel.php on line 32
+[21-Nov-2016 22:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/LocationFormModel.php on line 32
+[21-Nov-2016 23:11:02 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 11
+[21-Nov-2016 23:11:02 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:11:10 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 11
+[21-Nov-2016 23:11:10 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:13:59 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 10
+[21-Nov-2016 23:13:59 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:14:29 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 10
+[21-Nov-2016 23:14:29 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:14:54 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 11
+[21-Nov-2016 23:14:54 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:15:09 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:17:13 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:17:23 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:17:23 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:18:21 UTC] PHP Notice:  Undefined variable: config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:18:56 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:19:58 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:19:58 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 31
+[21-Nov-2016 23:20:01 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:20:01 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 31
+[21-Nov-2016 23:20:02 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:20:02 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 31
+[21-Nov-2016 23:21:34 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:21:34 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:21:34 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:21:34 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:21:36 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:21:36 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:21:36 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:21:36 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:21:37 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:21:37 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:23:04 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:23:04 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:23:44 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:23:44 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:25:14 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 15
+[21-Nov-2016 23:25:14 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 34
+[21-Nov-2016 23:26:17 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:26:17 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:26:49 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:26:49 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:28:57 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:28:57 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:30:36 UTC] PHP Fatal error:  Call to undefined function isseet() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:30:47 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:30:47 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:09 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:09 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:11 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:11 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:12 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:12 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:13 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:13 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:13 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:13 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:14 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:14 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:31:15 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:31:15 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:32:11 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:32:11 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:32:11 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:32:12 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:32:12 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:32:12 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:34:44 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 15
+[21-Nov-2016 23:34:44 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:35:21 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:35:21 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:35:23 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:35:23 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:35:24 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:35:24 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:35:25 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:35:25 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:35:55 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 16
+[21-Nov-2016 23:35:55 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 35
+[21-Nov-2016 23:36:08 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:36:08 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:36:42 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:36:42 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:36:45 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:36:45 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:37:10 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:37:10 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:37:46 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:37:46 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:38:30 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:38:30 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:40:02 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:40:02 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:40:03 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:40:03 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:41:00 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:41:00 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:42:28 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 12
+[21-Nov-2016 23:42:28 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 31
+[21-Nov-2016 23:43:10 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:43:10 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 32
+[21-Nov-2016 23:43:11 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 13
+[21-Nov-2016 23:43:11 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 32
+[21-Nov-2016 23:43:45 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:43:45 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:43:58 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:43:58 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:43:59 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:43:59 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:44:05 UTC] PHP Notice:  Undefined variable: POST in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:44:05 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 33
+[21-Nov-2016 23:44:34 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:44:44 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:44:46 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:45:03 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:45:30 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:46:01 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:46:58 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:46:59 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:47:00 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:47:18 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:47:19 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:48:13 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:48:14 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:50:40 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:50:41 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:55:25 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:55:42 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:55:43 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:01 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:02 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:03 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:36 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:37 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:39 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:40 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:40 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:50 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:56:51 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:57:00 UTC] PHP Notice:  Undefined index: app_path in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 15
+[21-Nov-2016 23:58:49 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:58:49 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 36
+[21-Nov-2016 23:58:52 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:58:52 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 36
+[21-Nov-2016 23:58:56 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:58:56 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 36
+[21-Nov-2016 23:59:19 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:59:19 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 36
+[21-Nov-2016 23:59:19 UTC] PHP Notice:  Undefined index: a in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 14
+[21-Nov-2016 23:59:19 UTC] PHP Notice:  Undefined variable: layout in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/makinghappy.php on line 36
+[22-Nov-2016 00:19:27 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 00:20:14 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 00:22:45 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 00:22:45 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 00:23:29 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 00:23:29 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 00:24:58 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 00:24:58 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 01:07:52 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 01:07:52 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 04:46:24 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 04:46:24 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 05:17:34 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 05:17:34 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 15:43:19 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 15:43:19 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 15:43:22 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 15:43:22 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 17:27:09 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 17:27:09 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 17:27:24 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 17:27:24 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 17:29:37 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 17:29:37 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 17:38:33 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 17:38:33 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 17:56:19 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 17:56:19 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 18:06:27 UTC] PHP Notice:  Undefined index: city in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 30
+[22-Nov-2016 18:06:27 UTC] PHP Notice:  Undefined index: state in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_form.php on line 35
+[22-Nov-2016 21:45:25 UTC] PHP Warning:  include(/home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 9
+[22-Nov-2016 21:45:25 UTC] PHP Warning:  include(): Failed opening '/home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 9
+[22-Nov-2016 21:45:25 UTC] PHP Warning:  include(controller/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 4
+[22-Nov-2016 21:45:25 UTC] PHP Warning:  include(controller/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 4
+[22-Nov-2016 21:45:25 UTC] PHP Warning:  include(): Failed opening 'controller/ListingsModel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 4
+[22-Nov-2016 21:45:25 UTC] PHP Fatal error:  Class 'ListingsModel' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 10
+[22-Nov-2016 21:45:51 UTC] PHP Warning:  include(controller/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 4
+[22-Nov-2016 21:45:51 UTC] PHP Warning:  include(controller/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 4
+[22-Nov-2016 21:45:51 UTC] PHP Warning:  include(): Failed opening 'controller/ListingsModel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/index.php on line 4
+[22-Nov-2016 21:45:51 UTC] PHP Fatal error:  Class 'ListingsModel' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 10
+[25-Nov-2016 20:33:08 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 20:33:18 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 20:33:27 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 21:47:18 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 21:47:21 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 21:47:32 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 23:58:32 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[25-Nov-2016 23:58:48 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 37
+[26-Nov-2016 04:45:54 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:47:32 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:47:34 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:47:35 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:47:36 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:48:56 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:49:25 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:49:43 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[26-Nov-2016 04:55:02 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 70
+[28-Nov-2016 18:59:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 18:59:14 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 19:00:27 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 19:01:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 19:01:57 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 19:08:30 UTC] PHP Notice:  Use of undefined constant config - assumed 'config' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 104
+[28-Nov-2016 19:08:30 UTC] PHP Notice:  Object of class Listings could not be converted to int in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 104
+[28-Nov-2016 19:09:22 UTC] PHP Notice:  Undefined property: Listings::$listings in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 104
+[28-Nov-2016 19:09:22 UTC] PHP Notice:  Trying to get property of non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_listings.php on line 104
+[28-Nov-2016 22:45:57 UTC] PHP Fatal error:  include(): Cannot redeclare class listingsmodel in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 11
+[28-Nov-2016 23:00:27 UTC] PHP Notice:  Undefined property: LocationDetailModel::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 39
+[28-Nov-2016 23:00:27 UTC] PHP Notice:  Undefined property: LocationDetailModel::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 40
+[28-Nov-2016 23:00:27 UTC] PHP Notice:  Undefined property: LocationDetailModel::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 41
+[28-Nov-2016 23:00:27 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 44
+[28-Nov-2016 23:01:28 UTC] PHP Fatal error:  include(): Cannot redeclare class listingsmodel in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 11
+[28-Nov-2016 23:02:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8192 bytes) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 64
+[28-Nov-2016 23:03:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8192 bytes) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 64
+[28-Nov-2016 23:14:01 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 9
+[28-Nov-2016 23:15:35 UTC] PHP Fatal error:  Cannot re-assign $this in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 8
+[28-Nov-2016 23:26:41 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 23:27:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8192 bytes) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 67
+[28-Nov-2016 23:28:12 UTC] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 11
+[28-Nov-2016 23:28:42 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 23:29:07 UTC] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 11
+[28-Nov-2016 23:31:42 UTC] PHP Fatal error:  Class 'Listings' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 5
+[28-Nov-2016 23:34:28 UTC] PHP Fatal error:  Class 'Listings' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 5
+[28-Nov-2016 23:35:19 UTC] PHP Fatal error:  Call to undefined method Listings::getConfig() in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 12
+[28-Nov-2016 23:35:43 UTC] PHP Fatal error:  Class 'Listings' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 5
+[28-Nov-2016 23:37:51 UTC] PHP Fatal error:  Class 'Listings' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 5
+[28-Nov-2016 23:38:15 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE), expecting function (T_FUNCTION) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 9
+[28-Nov-2016 23:38:34 UTC] PHP Catchable fatal error:  Object of class Listings could not be converted to string in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 12
+[28-Nov-2016 23:38:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 23:39:31 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 23:39:40 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 72
+[28-Nov-2016 23:39:56 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 9
+[28-Nov-2016 23:40:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[28-Nov-2016 23:40:17 UTC] PHP Fatal error:  Access to undeclared static property: ListingsModel::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 11
+[28-Nov-2016 23:40:25 UTC] PHP Fatal error:  Access to undeclared static property: Listings::$config in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 11
+[28-Nov-2016 23:40:39 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 11
+[28-Nov-2016 23:43:34 UTC] PHP Fatal error:  Class 'Listings' not found in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 5
+[28-Nov-2016 23:54:19 UTC] PHP Fatal error:  Call to a member function getLocations() on a non-object in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Listings.php on line 32
+[28-Nov-2016 23:59:04 UTC] PHP Fatal error:  Cannot re-assign $this in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 8
+[28-Nov-2016 23:59:31 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[29-Nov-2016 00:00:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[29-Nov-2016 00:00:58 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[29-Nov-2016 00:01:06 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[29-Nov-2016 00:01:24 UTC] PHP Fatal error:  Cannot re-assign $this in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 9
+[29-Nov-2016 00:01:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[29-Nov-2016 00:02:33 UTC] PHP Warning:  Missing argument 1 for Core::startDB(), called in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/model/ListingsModel.php on line 9 and defined in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 34
+[29-Nov-2016 00:02:33 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'studio610'@'localhost' (using password: NO) in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 47
+[29-Nov-2016 00:02:54 UTC] PHP Fatal error:  Cannot use object of type Listings as array in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 42
+[29-Nov-2016 00:03:28 UTC] PHP Fatal error:  Cannot use object of type Listings as array in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 43
+[29-Nov-2016 05:49:05 UTC] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 9
+[29-Nov-2016 05:49:09 UTC] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 9
+[29-Nov-2016 05:58:17 UTC] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/controller/Core.php on line 9
+[29-Nov-2016 09:12:57 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/prettyfuckinguseful.com/happyhour/view/view_location_detail.php on line 62
+[29-Nov-2016 22:18:59 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 81
+[29-Nov-2016 22:18:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 58
+[29-Nov-2016 22:19:20 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 81
+[29-Nov-2016 22:19:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 58
+[30-Nov-2016 21:12:46 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 74
+[30-Nov-2016 21:15:22 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[30-Nov-2016 21:17:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[30-Nov-2016 21:18:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[30-Nov-2016 21:18:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[30-Nov-2016 21:18:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[30-Nov-2016 21:34:17 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 22
+[30-Nov-2016 21:35:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 28
+[30-Nov-2016 21:35:21 UTC] PHP Fatal error:  Call to undefined function isSey() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 25
+[30-Nov-2016 16:08:44 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 73
+[01-Dec-2016 00:18:11 UTC] PHP Parse error:  syntax error, unexpected 'beer' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 88
+[01-Dec-2016 00:19:43 UTC] PHP Parse error:  syntax error, unexpected 'beer' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 91
+[01-Dec-2016 00:20:18 UTC] PHP Parse error:  syntax error, unexpected 'beer' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 91
+[30-Nov-2016 21:22:56 America/Los_Angeles] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/LocationDetailModel.php on line 31
+[30-Nov-2016 21:22:56 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 19
+[30-Nov-2016 21:23:23 America/Los_Angeles] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/LocationDetailModel.php on line 31
+[30-Nov-2016 21:23:23 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 19
+[30-Nov-2016 21:27:14 America/Los_Angeles] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/LocationDetailModel.php on line 31
+[30-Nov-2016 21:27:14 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 19
+[01-Dec-2016 05:50:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:50:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:51:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:51:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:51:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:51:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:51:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 05:51:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[01-Dec-2016 09:26:54 America/Los_Angeles] PHP Warning:  include(/happyhour/views/snip_dochead_meta.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 112
+[01-Dec-2016 09:26:54 America/Los_Angeles] PHP Warning:  include(): Failed opening '/happyhour/views/snip_dochead_meta.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 112
+[01-Dec-2016 09:27:31 America/Los_Angeles] PHP Warning:  include(/happyhour/view/snip_dochead_meta.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 112
+[01-Dec-2016 09:27:31 America/Los_Angeles] PHP Warning:  include(): Failed opening '/happyhour/view/snip_dochead_meta.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 112
+[01-Dec-2016 09:28:11 America/Los_Angeles] PHP Warning:  include(/happyhour/view/snip_dochead_meta.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 112
+[01-Dec-2016 09:28:11 America/Los_Angeles] PHP Warning:  include(): Failed opening '/happyhour/view/snip_dochead_meta.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 112
+[01-Dec-2016 18:10:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/studio610/public_html/_sites/binarybound.com/happyhour/model/LocationFormModel.php:367) in /home/studio610/public_html/_sites/binarybound.com/happyhour/controller/LocationForm.php on line 28
+[01-Dec-2016 18:22:51 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 86
+[01-Dec-2016 18:22:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 91
+[01-Dec-2016 18:22:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 77
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 23
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 24
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 26
+[01-Dec-2016 10:30:15 America/Los_Angeles] PHP Warning:  Illegal string offset 'days' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 36
+[01-Dec-2016 18:39:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 71
+[01-Dec-2016 18:39:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[01-Dec-2016 18:40:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 75
+[01-Dec-2016 18:41:03 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 86
+[01-Dec-2016 18:41:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 91
+[01-Dec-2016 18:41:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 89
+[01-Dec-2016 18:44:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 74
+[01-Dec-2016 18:45:29 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 55
+[01-Dec-2016 18:45:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 89
+[01-Dec-2016 18:46:01 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 55
+[01-Dec-2016 18:46:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 89
+[01-Dec-2016 18:49:55 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 76
+[01-Dec-2016 18:50:14 UTC] PHP Parse error:  syntax error, unexpected ''><i class='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 77
+[01-Dec-2016 18:51:39 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 82
+[01-Dec-2016 16:27:36 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 257
+[01-Dec-2016 16:28:22 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_location_detail.php on line 257
+[02-Dec-2016 06:22:49 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/binarybound.com/happyhour/model/ListingsModel.php on line 30
+[02-Dec-2016 06:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 98
+[02-Dec-2016 16:51:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 185
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 124
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 125
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 130
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 130
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 131
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 137
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 140
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 143
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 146
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 154
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 164
+[02-Dec-2016 16:51:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 123
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 124
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 130
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 136
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 139
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 142
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 145
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 153
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 163
+[02-Dec-2016 16:51:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 122
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 123
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 128
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 128
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 135
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 138
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 141
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 144
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 152
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 162
+[02-Dec-2016 16:53:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 123
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 124
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 130
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 136
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 139
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 142
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 145
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 153
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 163
+[02-Dec-2016 16:53:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 123
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 124
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 129
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 130
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 136
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 139
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 142
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 145
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 153
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 163
+[02-Dec-2016 16:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 9
+[02-Dec-2016 17:00:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 174
+[02-Dec-2016 17:01:00 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 174
+[02-Dec-2016 17:30:10 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 119
+[02-Dec-2016 17:31:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 120
+[02-Dec-2016 17:31:15 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 120
+[02-Dec-2016 17:31:50 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 120
+[02-Dec-2016 17:32:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/binarybound.com/happyhour/view/view_listings.php on line 120
+[02-Dec-2016 17:48:37 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/happyhour/model/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/controller/Listings.php on line 11
+[02-Dec-2016 17:48:37 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/happyhour/model/ListingsModel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/controller/Listings.php on line 11
+[02-Dec-2016 17:48:37 UTC] PHP Warning:  include(controller/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/index.php on line 7
+[02-Dec-2016 17:48:37 UTC] PHP Warning:  include(controller/ListingsModel.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/index.php on line 7
+[02-Dec-2016 17:48:37 UTC] PHP Warning:  include(): Failed opening 'controller/ListingsModel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/index.php on line 7
+[02-Dec-2016 17:48:37 UTC] PHP Fatal error:  Class 'ListingsModel' not found in /home/studio610/public_html/_sites/squirld.com/controller/Listings.php on line 12
+[02-Dec-2016 21:53:11 UTC] PHP Warning:  include(/home/studio610/public_html/_sites/squirld.com/view/view_location_form_thankyou.php?id=7): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/controller/LocationForm.php on line 27
+[02-Dec-2016 21:53:11 UTC] PHP Warning:  include(): Failed opening '/home/studio610/public_html/_sites/squirld.com/view/view_location_form_thankyou.php?id=7' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/controller/LocationForm.php on line 27
+[02-Dec-2016 15:09:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '{' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 15:13:51 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 15:16:58 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 15:16:59 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 15:18:07 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 15:18:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 15:18:22 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 259
+[02-Dec-2016 23:44:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 165
+[04-Dec-2016 16:40:50 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'l' (T_STRING), expecting ',' or ';' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 252
+[05-Dec-2016 22:04:57 UTC] PHP Warning:  Missing argument 1 for getStateList(), called in /home/studio610/public_html/_sites/squirld.com/view/view_location_form.php on line 154 and defined in /home/studio610/public_html/_sites/squirld.com/view/view_location_form.php on line 3
+[05-Dec-2016 22:04:57 UTC] PHP Fatal error:  Using $this when not in object context in /home/studio610/public_html/_sites/squirld.com/view/view_location_form.php on line 7
+[05-Dec-2016 22:05:21 UTC] PHP Fatal error:  Using $this when not in object context in /home/studio610/public_html/_sites/squirld.com/view/view_location_form.php on line 7
+[05-Dec-2016 22:06:02 UTC] PHP Fatal error:  Call to undefined method LocationForm::getStateList() in /home/studio610/public_html/_sites/squirld.com/view/view_location_form.php on line 130
+[05-Dec-2016 22:07:01 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 32
+[05-Dec-2016 22:07:38 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 33
+[05-Dec-2016 22:07:39 UTC] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 33
+[05-Dec-2016 22:12:17 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/studio610/public_html/_sites/squirld.com/view/view_location_form.php on line 135
+[05-Dec-2016 23:10:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 118
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php): failed to open stream: No such file or directory in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:07 UTC] PHP Warning:  include_once(): Failed opening '/home/studio610/public_html/_sites/squirld.com/views/view_listings_geo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 119
+[13-Dec-2016 17:20:21 UTC] PHP Fatal error:  Cannot redeclare getCrowdData() (previously declared in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php:5) in /home/studio610/public_html/_sites/squirld.com/view/view_listings_geo.php on line 40
+[13-Dec-2016 17:21:52 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:21:56 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:21:58 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:01 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:04 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:06 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:32 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:35 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:37 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:39 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:42 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:44 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[13-Dec-2016 17:22:47 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[15-Dec-2016 23:57:30 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[15-Dec-2016 23:57:39 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[15-Dec-2016 23:59:16 UTC] PHP Fatal error:  Call to undefined function getCrowdData() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 85
+[16-Dec-2016 16:28:11 UTC] PHP Warning:  Missing argument 2 for Listings::showCurrentLocations(), called in /home/studio610/public_html/_sites/squirld.com/index.php on line 30 and defined in /home/studio610/public_html/_sites/squirld.com/controller/Listings.php on line 36
+[16-Dec-2016 16:28:44 UTC] PHP Warning:  Missing argument 2 for Listings::showCurrentLocations(), called in /home/studio610/public_html/_sites/squirld.com/index.php on line 30 and defined in /home/studio610/public_html/_sites/squirld.com/controller/Listings.php on line 36
+[16-Dec-2016 23:19:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:19:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:19:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:19:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:19:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:19:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:21:56 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 90
+[16-Dec-2016 23:21:56 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 98
+[16-Dec-2016 23:21:56 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 98
+[16-Dec-2016 23:22:10 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 90
+[16-Dec-2016 23:22:10 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 98
+[16-Dec-2016 23:22:10 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 98
+[16-Dec-2016 23:22:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 92
+[16-Dec-2016 23:23:40 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:23:40 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:23:40 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:23:40 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:23:40 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:23:40 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:24:30 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:24:30 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:24:30 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:24:30 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:24:30 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:24:30 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:25:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:25:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:25:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:25:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:25:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:25:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:26:05 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/studio610/public_html/_sites/squirld.com/model/ListingsModel.php on line 66
+[16-Dec-2016 23:26:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:26:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:26:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:26:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:26:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:26:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:29 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:29 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:29 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:29 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:29 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:27:29 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:51 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:51 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:51 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:51 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:51 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:28:51 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 62
+[16-Dec-2016 23:29:24 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:29:24 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:29:24 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:29:24 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:29:24 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:29:24 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 65
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'distance' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 69
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'city' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 69
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 72
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 72
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 73
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 80
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 83
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 86
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 89
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 98
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 108
+[16-Dec-2016 23:40:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 14
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 65
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 66
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'distance' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 69
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'city' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 69
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 72
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 72
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 73
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 80
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 83
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 86
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 89
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 98
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 108
+[16-Dec-2016 23:47:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 14
+[16-Dec-2016 23:55:26 UTC] PHP Warning:  Division by zero in /home/studio610/public_html/_sites/squirld.com/ajax_currentlocations.php on line 108
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 128
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 129
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 134
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 134
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 135
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 141
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 144
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 147
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 150
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 158
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 168
+[17-Dec-2016 00:10:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 9
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 128
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 129
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 134
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 134
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 135
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 141
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 144
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 147
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 150
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 158
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 168
+[17-Dec-2016 00:10:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 9
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'start' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 128
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'end' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 129
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 134
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 134
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'name' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 135
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'beer' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 141
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'wine' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 144
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'cocktails' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 147
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'food' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 150
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'address' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 158
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Illegal string offset 'ratings' in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 168
+[17-Dec-2016 00:11:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/squirld.com/view/view_listings.php on line 9
+[20-Dec-2016 17:42:25 UTC] PHP Warning:  strtolower() expects exactly 1 parameter, 2 given in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 71
+[20-Dec-2016 17:42:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 79
+[20-Dec-2016 17:42:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php:71) in /home/studio610/public_html/_sites/squirld.com/controller/LocationForm.php on line 27
+[20-Dec-2016 17:44:19 UTC] PHP Warning:  ucwords() expects parameter 1 to be string, object given in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 71
+[20-Dec-2016 17:44:19 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php on line 79
+[20-Dec-2016 17:44:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/studio610/public_html/_sites/squirld.com/model/LocationFormModel.php:71) in /home/studio610/public_html/_sites/squirld.com/controller/LocationForm.php on line 27
+[21-Dec-2016 16:19:32 America/Los_Angeles] PHP Warning:  preg_replace(): Unknown modifier 'b' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 263
+[22-Dec-2016 15:30:40 America/Los_Angeles] PHP Catchable fatal error:  Object of class LocationDetail could not be converted to string in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 394
+[22-Dec-2016 15:39:34 America/Los_Angeles] PHP Fatal error:  Using $this when not in object context in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 57
+[22-Dec-2016 15:54:05 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 306
+[22-Dec-2016 15:54:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 308
+[22-Dec-2016 16:00:34 America/Los_Angeles] PHP Fatal error:  Call to undefined function rount() in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 299
+[23-Dec-2016 10:08:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'rgba' (T_STRING) in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 55
+[23-Dec-2016 12:01:59 America/Los_Angeles] PHP Warning:  Creating default object from empty value in /home/studio610/public_html/_sites/squirld.com/model/LocationDetailModel.php on line 31
+[23-Dec-2016 12:01:59 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 19
+[23-Dec-2016 12:16:59 America/Los_Angeles] PHP Warning:  date_modify() expects parameter 1 to be DateTime, integer given in /home/studio610/public_html/_sites/squirld.com/view/view_location_detail.php on line 80
