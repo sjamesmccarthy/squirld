@@ -23,9 +23,9 @@
 		"prod": {
 			"host" : "local",
 			"port" : "3306",
-			"username": "studio610",
-			"password" : "youar3MY0ne!",
-			"dbname" : "pfu_happyhour"
+			"username": "jmgaller_web",
+			"password" : "dontbelik",
+			"dbname" : "jmgaller_pfu_happyhour"
 		}
 	}
 }
