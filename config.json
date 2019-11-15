@@ -17,14 +17,14 @@
 			"host" : "local",
 			"port" : "3306",
 			"username": "root",
-			"password" : "jewel4me",
+			"password" : "",
 			"dbname" : "pfu_happyhour"
 		},
 		"prod": {
 			"host" : "local",
 			"port" : "3306",
 			"username": "jmgaller_web",
-			"password" : "dontbelik",
+			"password" : "",
 			"dbname" : "jmgaller_pfu_happyhour"
 		}
 	}
